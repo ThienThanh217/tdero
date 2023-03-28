@@ -40,8 +40,8 @@ Setup lệnh đào Dero trên ứng dụng userland như sau:
       apt-get install get 
       apt-get install nano
       apt-get install git -y
-      git clone https://github.com/ThienThanh217/TT_Dero_AstrominerUserlandTradeogre.git
-      cd TT_Dero_AstrominerUserlandTradeogre 
+      git clone https://github.com/ThienThanh217/daut.git
+      cd daut 
       chmod +x rpc_mining.sh 
       chmod u+x astrominer 
       ./rpc_mining.sh
