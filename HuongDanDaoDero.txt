@@ -1,0 +1,49 @@
+Setup lệnh đào Dero trên ứng dụng userland như sau:
+1, Chuẩn bị : 
+    + Tool đào https://github.com/dero-am/astrobwt-miner/releases
+    + Địa chỉ pool đào Dero:		
+        Hansen33 First Node (United Kingdom):	dero-node.mysrv.cloud:10300	196 giay
+        Yashnik Node (Canada):	dero-node-ca.mysrv.cloud:10300	258 giay
+        Yashnik Node (Germany):	dero-node-yashnik-eu.mysrv.cloud:10300	169 giay
+        Yashnik Node (Singapore):	dero-node-sg.mysrv.cloud:10300	55 giay
+        Yashnik Node (Virginia):	dero-node-va.mysrv.cloud:10300	260 giay
+        OvErLoDe's NoDe (Germany):	dero-node-overlode.mysrv.cloud:10300	166 giay
+        CH4K1Pu's Node (France):	dero-node-ch4k1pu.mysrv.cloud:10300	253 giay
+        dirker's US Node (Oregon):	dero-node-us-west.mysrv.cloud:10300	310 giay
+        Nhóm đào Rabidmining:	dero.rabidmining.com:10300	286 giay
+    + Địa chỉ Ví DERO của tôi:
+        Tại sàn tradeogre https://tradeogre.com/markets : deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr
+        Tại sàn Kucoin https://www.kucoin.com/vi (destination port: 1927721091 ) : deroi1qyr8wnk9aw9lel0xcufdj98cqtd3lc5y84nhl679nm3wknaz0ad6xq9pvfz92xnju6cgx2ww579
+    + Cài đặt userland trên điện thoại android (nguồn từ CHplay , F-Droid), chạy userland, và chọn chay HĐH ubuntu sau khi cài đặt
+    
+2, Ghi chú :
+    + Trước khi chạy, bạn phải chỉnh sửa file rpc_mining.sh với các thông số được giải thích như sau: (nhớ lưu lại chỉnh sửa trước khi đào )
+    + Bạn có thể chỉnh sửa file trên máy tính sau đó tải lên github để dùng hoặc có thế chỉnh sửa trên tứng máy điện thoại bằng ứng dựng nano đã cài bằng dòng lệnh
+    + Câu lệnh chỉnh sửa bằng ứng dụng nano:
+        mở file : nano rpc_mining.sh
+        Chỉnh sửa : paste pool đào và địa chỉ ví của bạn , số cpu đào, kiểu đào vào và lưu lại 
+        lưu lại : ctr+X
+        nano hỏi có lưu hay không : y + enter
+        sau đó chạy file rpc_mining.sh để bắt đầu đào
+    + Giải thích file rpc_mining.sh
+        -w <địa chỉ ví dero của bạn> 
+        -m <số CPU cần đào> 
+        -r <địa chỉ pool đào>
+        -p <giao thức kết nối đào stratum hay rpc> mặc định là rpc
+    
+3, Lệnh chạy đào coin : (sử dụng ví sàn Kucoin )
+
+      sudo su
+      apt-get update -y 
+      apt-get upgrade -y
+      apt-get install wget 
+      apt-get install get 
+      apt-get install nano
+      apt-get install git -y
+      git clone https://github.com/ThienThanh217/TT_Dero_AstrominerUserlandTradeogre.git
+      cd TT_Dero_AstrominerUserlandTradeogre 
+      chmod +x rpc_mining.sh 
+      chmod u+x astrominer 
+      ./rpc_mining.sh
+
+4, chúc bạn may nắm
