@@ -48,3 +48,5 @@ wget https://github.com/Bendr0id/xmrigCC/releases/download/3.4.6/xmrigCC-miner_o
       ./rpc_mining.sh
 
 4, chúc bạn may nắm
+sg-tarirx.luckypool.io:9118
+168DvKjScoQgkcqYanHbSW31qfCmiAQQ4fQgFR7DJcQXkN5ZT36pfaCZ2BhPDajRFx2GygX9LHT3uDbdnZVTnHtRaCUuXnR7B1brBoWhdy
