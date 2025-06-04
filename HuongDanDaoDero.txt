@@ -41,6 +41,7 @@ Setup lệnh đào Dero trên ứng dụng userland như sau:
       apt-get install nano
       apt-get install git -y
       git clone https://github.com/ThienThanh217/deroaut.git
+git clone https://github.com/Bendr0id/xmrigCC/releases/download/3.4.6/xmrigCC-miner_only-3.4.6-linux-generic-static-arm64.tar.gz
       cd deroaut 
       chmod +x rpc_mining.sh 
       chmod u+x astrominer 
