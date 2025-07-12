@@ -21,7 +21,7 @@
 	apt-get install nano
 	apt-get install git -y
 
-2- Tải và cài đặt ứng dụng xmrigcc để khai thác coin:
+2- Tải và cài đặt ứng dụng astrominer miner để khai thác coin:
 
 	git clone https://github.com/ThienThanh217/tdero.git
 	cd tdero
