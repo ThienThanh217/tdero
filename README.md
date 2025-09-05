@@ -1,24 +1,30 @@
-*******************************************************************************
-*** Danh Sách Lệnh cài đặt tools astrominer miner để đào coin Dero chạy cpu ***
-***************************************
+**********************************************************************************
+*** Danh Sách Lệnh cài đặt tools xmrigcc miner để đào tất cả các coin chạy cpu ***
+**********************************************************************************
 *** Các lệnh phụ trợ tham khảo:
 
-	sudo su 
 	rm -f [Tên File Cần Xóa]
+
 	rm -r [Tên Thư Mục Cần Xóa]
+
 	mrdir [Tên Thư Mục Cần Tạo]
+
 	mv [Tên File Muốn Đổi] [Tên File Mới]
 
-***************************************
+
+**********************************************************************************
+0- Lệnh Cấp Quyền Admin
+
+	sudo su
 
 1- Tập lệnh hệ thống update:
 
-	sudo su
 	apt-get update -y 
 	apt-get upgrade -y
 	apt-get install wget 
 	apt-get install get 
 	apt-get install nano
+	apt-get install git -y
 	apt-get install git -y
 
 2- Tải và cài đặt ứng dụng astrominer miner để khai thác coin:
