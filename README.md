@@ -74,64 +74,68 @@
 
 -- Địa chỉ Ví DERO:
 
-Tại sàn tradeogre https://tradeogre.com : deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr
+Tại sàn tradeogre https://tradeogre.com : 
 
-Tại sàn Kucoin https://www.kucoin.com: (destination port: 1927721091 ) : deroi1qyr8wnk9aw9lel0xcufdj98cqtd3lc5y84nhl679nm3wknaz0ad6xq9pvfz92xnju6cgx2ww579
+	deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr
+
+Tại sàn Kucoin https://www.kucoin.com: (destination port: 1927721091 ) : 
+
+	deroi1qyr8wnk9aw9lel0xcufdj98cqtd3lc5y84nhl679nm3wknaz0ad6xq9pvfz92xnju6cgx2ww579
 
 -- Câu lệnh cho từng máy:
 
 Máy 01: M01_S9pX
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M01_S9pX
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M01_S9pX
 
 Máy 02: M02_S9pH
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M02_S9pH
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M02_S9pH
 
 Máy 03: M03_S9pH
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M03_S9pH
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M03_S9pH
 
 Máy 04: M04_S9pX
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M04_S9pX
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M04_S9pX
 
 Máy 05: M05_S9X
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M05_S9X
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M05_S9X
 
 Máy 06: M06_S10pT
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M06_S10pT
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M06_S10pT
 
 Máy 07: M07_Note8
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M07_Note8
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M07_Note8
 
 Máy 08: M08_S8pT
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M08_S8pT
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M08_S8pT
 
 Máy 09: M09_A72017
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 3 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M09_A72017
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 3 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M09_A72017
 
 Máy 10: M10_S9pH
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M10_S9pH
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M10_S9pH
 
 Máy 11: M11_M30s
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M11_M30s
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M11_M30s
 
 Máy 12: M12_G2plx
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M12_G2plx
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M12_G2plx
 
 Máy 13: M13_SH701sh
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M13_SH701sh
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M13_SH701sh
 
 Máy 14: M14_ZFlip1
 
-./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M14_ZFlip1
+	./astrominer -r community-pools.mysrv.cloud:10300 -p rpc -m 6 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcxtq2z2k7l9sdq2h0pgr.M14_ZFlip1
